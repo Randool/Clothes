@@ -1,0 +1,105 @@
+====Epoch 0====
+train Loss: 0.6785 Acc: 0.8032 Cost: 0.23 min
+val Loss: 0.3573 Acc: 0.8744 Cost: 0.13 min
+====Epoch 1====
+train Loss: 0.3331 Acc: 0.8805 Cost: 0.22 min
+val Loss: 0.2925 Acc: 0.8935 Cost: 0.13 min
+====Epoch 2====
+train Loss: 0.2837 Acc: 0.8965 Cost: 0.22 min
+val Loss: 0.2666 Acc: 0.9044 Cost: 0.13 min
+====Epoch 3====
+train Loss: 0.2579 Acc: 0.9055 Cost: 0.22 min
+val Loss: 0.2340 Acc: 0.9156 Cost: 0.13 min
+====Epoch 4====
+train Loss: 0.2430 Acc: 0.9114 Cost: 0.28 min
+val Loss: 0.2320 Acc: 0.9153 Cost: 0.13 min
+====Epoch 5====
+train Loss: 0.2041 Acc: 0.9258 Cost: 0.22 min
+val Loss: 0.1941 Acc: 0.9295 Cost: 0.13 min
+====Epoch 6====
+train Loss: 0.1982 Acc: 0.9275 Cost: 0.22 min
+val Loss: 0.1807 Acc: 0.9353 Cost: 0.13 min
+====Epoch 7====
+train Loss: 0.1913 Acc: 0.9302 Cost: 0.22 min
+val Loss: 0.1914 Acc: 0.9283 Cost: 0.13 min
+====Epoch 8====
+train Loss: 0.1831 Acc: 0.9339 Cost: 0.22 min
+val Loss: 0.1603 Acc: 0.9431 Cost: 0.13 min
+====Epoch 9====
+train Loss: 0.1787 Acc: 0.9342 Cost: 0.22 min
+val Loss: 0.1646 Acc: 0.9399 Cost: 0.13 min
+====Epoch 10====
+train Loss: 0.1518 Acc: 0.9448 Cost: 0.23 min
+val Loss: 0.1368 Acc: 0.9516 Cost: 0.13 min
+====Epoch 11====
+train Loss: 0.1447 Acc: 0.9489 Cost: 0.22 min
+val Loss: 0.1357 Acc: 0.9511 Cost: 0.13 min
+====Epoch 12====
+train Loss: 0.1405 Acc: 0.9489 Cost: 0.22 min
+val Loss: 0.1295 Acc: 0.9530 Cost: 0.13 min
+====Epoch 13====
+train Loss: 0.1341 Acc: 0.9513 Cost: 0.22 min
+val Loss: 0.1234 Acc: 0.9554 Cost: 0.13 min
+====Epoch 14====
+train Loss: 0.1317 Acc: 0.9520 Cost: 0.23 min
+val Loss: 0.1166 Acc: 0.9592 Cost: 0.13 min
+====Epoch 15====
+train Loss: 0.1144 Acc: 0.9590 Cost: 0.22 min
+val Loss: 0.1070 Acc: 0.9625 Cost: 0.13 min
+====Epoch 16====
+train Loss: 0.1085 Acc: 0.9616 Cost: 0.22 min
+val Loss: 0.0979 Acc: 0.9665 Cost: 0.13 min
+====Epoch 17====
+train Loss: 0.1035 Acc: 0.9636 Cost: 0.22 min
+val Loss: 0.0931 Acc: 0.9677 Cost: 0.13 min
+====Epoch 18====
+train Loss: 0.1018 Acc: 0.9636 Cost: 0.22 min
+val Loss: 0.0913 Acc: 0.9683 Cost: 0.13 min
+====Epoch 19====
+train Loss: 0.0986 Acc: 0.9655 Cost: 0.22 min
+val Loss: 0.0989 Acc: 0.9630 Cost: 0.13 min
+====Epoch 20====
+train Loss: 0.0887 Acc: 0.9693 Cost: 0.22 min
+val Loss: 0.0815 Acc: 0.9724 Cost: 0.13 min
+====Epoch 21====
+train Loss: 0.0852 Acc: 0.9715 Cost: 0.22 min
+val Loss: 0.0781 Acc: 0.9740 Cost: 0.13 min
+====Epoch 22====
+train Loss: 0.0827 Acc: 0.9724 Cost: 0.22 min
+val Loss: 0.0782 Acc: 0.9737 Cost: 0.13 min
+====Epoch 23====
+train Loss: 0.0810 Acc: 0.9720 Cost: 0.22 min
+val Loss: 0.0744 Acc: 0.9750 Cost: 0.13 min
+====Epoch 24====
+train Loss: 0.0791 Acc: 0.9732 Cost: 0.22 min
+val Loss: 0.0735 Acc: 0.9754 Cost: 0.13 min
+====Epoch 25====
+train Loss: 0.0724 Acc: 0.9762 Cost: 0.22 min
+val Loss: 0.0689 Acc: 0.9781 Cost: 0.13 min
+====Epoch 26====
+train Loss: 0.0721 Acc: 0.9764 Cost: 0.22 min
+val Loss: 0.0693 Acc: 0.9773 Cost: 0.13 min
+====Epoch 27====
+train Loss: 0.0704 Acc: 0.9770 Cost: 0.22 min
+val Loss: 0.0670 Acc: 0.9785 Cost: 0.13 min
+====Epoch 28====
+train Loss: 0.0705 Acc: 0.9774 Cost: 0.22 min
+val Loss: 0.0661 Acc: 0.9792 Cost: 0.13 min
+====Epoch 29====
+train Loss: 0.0689 Acc: 0.9776 Cost: 0.22 min
+val Loss: 0.0653 Acc: 0.9789 Cost: 0.13 min
+==========
+Training complete in 10m 36s
+*** Best val Acc: 0.979183 ***
+Saved model to ResNet_0.9792.pth
+Accuracy: 97.89 %
+[[5766    0   23   12    2    0  234    0    0    0]
+ [   0 5998    0    0    0    0    0    0    0    0]
+ [  21    0 5699    5   43    0   70    0    0    0]
+ [  24    2   13 5935   20    0   53    0    1    0]
+ [   1    0  150   36 5878    0  156    0    0    0]
+ [   0    0    0    0    0 5999    0    1    0    0]
+ [ 188    0  115   12   57    0 5487    0    0    0]
+ [   0    0    0    0    0    1    0 5996    0   25]
+ [   0    0    0    0    0    0    0    0 5999    0]
+ [   0    0    0    0    0    0    0    3    0 5975]]
